@@ -36,11 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-
-1. ¶Iniunctions for the clerge.
-Exhibite Die menſis Anno dn̄i. M. CCCCC. xxxviii.
-In the name of God Amen.
-
+Iniunctions for the clerge Exhibite [blank] die mensis [blank] Anno d[omi]ni M.CCCCC.xxxviii.Injunct
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -75,44 +71,39 @@ There are 7 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|7||
-|3.|__div__|1| @__type__ (1) : injunction (1)|
-|4.|__g__|39| @__ref__ (39) : char:cmbAbbrStroke (25), char:EOLhyphen (12), char:EOLunhyphen (2)|
-|5.|__gap__|7| @__reason__ (7) : blank (2), illegible (5)  •  @__extent__ (7) : 1 span (3), 1 word (2), 1 letter (2)  •  @__resp__ (5) : #TECH (5)|
-|6.|__head__|1||
-|7.|__hi__|3| @__rend__ (3) : sup (3)|
-|8.|__p__|12||
-|9.|__pb__|1| @__facs__ (1) : tcp:12190:1 (1)  •  @__rendition__ (1) : simple:additions (1)|
+|1.|__desc__|7||
+|2.|__div__|1| @__type__ (1) : injunction (1)|
+|3.|__g__|39| @__ref__ (39) : char:cmbAbbrStroke (25), char:EOLhyphen (12), char:EOLunhyphen (2)|
+|4.|__gap__|7| @__reason__ (7) : blank (2), illegible (5)  •  @__extent__ (7) : 1 span (3), 1 word (2), 1 letter (2)  •  @__resp__ (5) : #TECH (5)|
+|5.|__head__|1||
+|6.|__hi__|3| @__rend__ (3) : sup (3)|
+|7.|__p__|12||
+|8.|__pb__|1| @__facs__ (1) : tcp:12190:1 (1)  •  @__rendition__ (1) : simple:additions (1)|
